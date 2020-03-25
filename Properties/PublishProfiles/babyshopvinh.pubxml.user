@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\babyshop</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>03/10/2020 21:13:53</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>03/10/2020 21:13:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>03/24/2020 13:16:02</publishTime>
+    </File>
+    <File Include="images/anhGiamGia.jpg">
+      <publishTime>03/10/2020 21:19:00</publishTime>
+    </File>
+    <File Include="images/do_uong_cho_be.jfif">
+      <publishTime>03/11/2020 10:55:44</publishTime>
+    </File>
+    <File Include="images/Fashion for baby.jfif">
+      <publishTime>03/11/2020 10:56:11</publishTime>
+    </File>
+    <File Include="images/giat_xa_quan_ao.jpg">
+      <publishTime>03/11/2020 10:08:22</publishTime>
+    </File>
+    <File Include="images/Health_Safety.jfif">
+      <publishTime>03/11/2020 10:56:04</publishTime>
+    </File>
+    <File Include="images/logo-babyshop123.png">
+      <publishTime>03/10/2020 21:19:32</publishTime>
+    </File>
+    <File Include="images/noi_giuong.jfif">
+      <publishTime>03/11/2020 10:55:28</publishTime>
+    </File>
+    <File Include="images/sieutokhonglo.png">
+      <publishTime>03/11/2020 09:18:06</publishTime>
+    </File>
+    <File Include="images/stuff for mother.jfif">
+      <publishTime>03/11/2020 10:55:57</publishTime>
+    </File>
+    <File Include="images/sua_thucpham.jfif">
+      <publishTime>03/11/2020 10:55:15</publishTime>
+    </File>
+    <File Include="images/ta_quan.jfif">
+      <publishTime>03/11/2020 10:55:01</publishTime>
+    </File>
+    <File Include="images/thuonghieu1.png">
+      <publishTime>03/11/2020 20:17:26</publishTime>
+    </File>
+    <File Include="images/thuonghieu2.png">
+      <publishTime>03/11/2020 20:17:46</publishTime>
+    </File>
+    <File Include="images/thuonghieu3.png">
+      <publishTime>03/11/2020 20:17:50</publishTime>
+    </File>
+    <File Include="images/thuonghieu4.png">
+      <publishTime>03/11/2020 20:17:52</publishTime>
+    </File>
+    <File Include="images/thuonghieu5.png">
+      <publishTime>03/11/2020 20:17:55</publishTime>
+    </File>
+    <File Include="images/thuonghieu6.png">
+      <publishTime>03/11/2020 20:17:57</publishTime>
+    </File>
+    <File Include="images/thuonghieu7.png">
+      <publishTime>03/11/2020 20:17:59</publishTime>
+    </File>
+    <File Include="images/thuonghieu8.png">
+      <publishTime>03/11/2020 20:18:01</publishTime>
+    </File>
+    <File Include="images/xe_cho_be.jfif">
+      <publishTime>03/11/2020 10:55:21</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>03/12/2020 20:07:23</publishTime>
+    </File>
+    <File Include="javascript.js">
+      <publishTime>03/12/2020 16:53:16</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/10/2020 21:13:55</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>03/10/2020 21:13:55</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>03/10/2020 21:13:55</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>03/12/2020 20:07:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/24/2020 13:16:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,66 @@
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\WebApplication1.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\web_babyshop_123\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+J:\HK2\LTWEB_Front_end(Tren lop)\Animation\Complete babyshop\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
