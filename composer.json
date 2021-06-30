@@ -1,0 +1,12 @@
+{
+    "authors" : [
+      {
+        "name" : "Võ Đăng Vĩnh",
+        "email" : "01686228222vinh@gmail.com"
+      }
+    ],
+    "require" : {
+        "babyshop/vdv"
+    }
+
+}
