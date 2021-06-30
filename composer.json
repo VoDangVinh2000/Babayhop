@@ -1,5 +1,5 @@
 {
-    "name" : "babyshop/vdv",
+    "name" : "babyshop",
     "type" : "project",
     "authors" : [
         {
@@ -8,7 +8,7 @@
         }
     ],
     "require" : {
-        "babyshop/vdv" : "^1.1"
+        "babyshop" : "^1.1"
     }
 
 }
