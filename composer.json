@@ -8,7 +8,7 @@
         }
     ],
     "require" : {
-        "babyshop" : "^1.1"
+        "babyshop/vdv" : "^1.1"
     }
 
 }
