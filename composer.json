@@ -7,7 +7,7 @@
         }
     ],
     "require" : {
-        "babyshop/vdv",
+        "babyshop/vdv"
     }
 
 }
