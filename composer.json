@@ -9,6 +9,7 @@
     ],
     "require" : {
         "babyshop/vdv" : "^1.1"
-    }
+    },
+	"minimum-stability": "dev"
 
 }
